@@ -1,0 +1,9 @@
+NUM_NODES = 8
+NUM_FEATURES = 5   # PM2.5, PM10, MQ135, Temp, Humidity
+
+HIDDEN_DIM = 16
+OUT_DIM = 8
+HEADS = 2
+
+LR = 0.005
+EPOCHS = 150
